@@ -1,3 +1,21 @@
-.header {
-    color: green;
+.test {
+    width: 400px;
+    height: 200px;
+    background-color: blanchedalmond;
+}
+
+.pagina {
+    color: blue;
+    background-color: chartreuse;
+    border-style: solid;
+    border-color: blue;
+    display: inline-block;
+}
+
+.git {
+    display: flex;
+    color: white;
+    background-color: black;
+    border-style: double;
+    border-color: white;
 }
